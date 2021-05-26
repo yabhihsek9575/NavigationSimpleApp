@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is fragment</string>
+    <string name="go_to_next_screen">Go to next Screen</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="back">Back</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="forword">Forword</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+</resources>
